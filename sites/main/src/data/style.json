@@ -1,0 +1,10 @@
+{
+  "colours": {
+    "primary": "#1652DF",
+    "accent": "#1652DF"
+  },
+  "fonts": {
+    "heading": "Outfit",
+    "body": "Inter"
+  }
+}
