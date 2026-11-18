@@ -1,25 +1,25 @@
 title: "About us"
 seo:
-  title: "About Cyber Hackers Pvt Ltd | Plumbers in Bengaluru"
-  description: "Who we are, how we work and what we care about: Cyber Hackers Pvt Ltd is a local plumbing and heating firm in Bengaluru."
+  title: "About Cyber Hackers Pvt Ltd | Ethical Hackers in Bengaluru"
+  description: "Who we are and how we work: Cyber Hackers Pvt Ltd is a team of ethical hackers in Bengaluru, protecting you from online hacking."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     title: "About Cyber Hackers Pvt Ltd"
-    lead: "A local plumbing and heating firm that people recommend to their friends."
+    lead: "A Bengaluru team of ethical hackers, working to keep you safe online."
 
   - blockType: split
     title: Our story
     body: |
-      Tell your story here: how the business started, who runs it, and what you're proud of. People like to know who will be coming to their home.
+      Cyber Hackers Pvt Ltd is a team of ethical hackers based in Bengaluru. We protect people and businesses from online hacking by looking for weak spots before someone with bad intentions finds them.
 
-      Keep it short and true. A few sentences about your experience and the kind of work you enjoy is plenty.
+      We think like an attacker so that we can close the gaps first. We enjoy the detail of the work and we like explaining what we find in plain language.
     highlight:
       title: In short
       items:
-        - Local and independent
-        - Fully insured
-        - Clear prices, no surprises
+        - Local to Bengaluru
+        - Ethical hackers
+        - Plain-English advice
 
   - blockType: features
     tone: white
@@ -29,15 +29,15 @@ blocks:
         title: We explain things
         text: You'll know what we're doing and why, before we do it.
       - icon: Clock
-        title: We turn up on time
-        text: If something changes, we call you, not the other way round.
+        title: We respond quickly
+        text: If we spot a risk or something changes, we call you, not the other way round.
       - icon: Sparkles
-        title: We leave it clean
-        text: Dust sheets down while we work, and everything tidied away after.
+        title: We leave you a clear record
+        text: You'll get a summary of what we checked, what we found and what we changed.
 
   - blockType: cta
-    title: Talk to us about your job
-    text: We're happy to give advice, even if it's a small job.
+    title: Talk to us about your security
+    text: We're happy to give advice, even if you only have a quick question.
     buttons:
       - label: Get in touch
         href: /contact
