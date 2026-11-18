@@ -1,12 +1,12 @@
 title: "Reviews"
 seo:
   title: "Customer reviews | Cyber Hackers Pvt Ltd, Bengaluru"
-  description: "What customers in and around Bengaluru say about Cyber Hackers Pvt Ltd: real reviews of our plumbing, heating and bathroom work."
+  description: "Read what customers in Bengaluru say about our online security and ethical hacking services."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     title: What our customers say
-    lead: "We're proud of the reviews our customers leave. Here are a few of them."
+    lead: "We value the feedback our customers give us about our online security work. Here are a few of their comments."
 
   - blockType: testimonials
     title: Recent reviews
@@ -14,23 +14,23 @@ blocks:
     items:
       - quote: "Replace this with a real review from a customer, in their own words."
         name: Sample review
-        detail: "Boiler replacement"
+        detail: "Security audit"
         rating: 5
       - quote: "Another real review goes here. Specific details (what was done, how it went) are the most useful to readers."
         name: Sample review
-        detail: "New bathroom"
+        detail: "Penetration test"
         rating: 5
       - quote: "Short reviews work well too."
         name: Sample review
-        detail: "Leak repair"
+        detail: "Phishing awareness training"
         rating: 5
       - quote: "Add as many as you like; the newest first is a good order."
         name: Sample review
-        detail: "Radiator fitting"
+        detail: "Online account protection"
         rating: 5
 
   - blockType: cta
-    title: Join our happy customers
+    title: Talk to our team
     text: Tell us what you need and we'll send you a clear, written quote.
     buttons:
       - label: Get a quote

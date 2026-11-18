@@ -1,71 +1,71 @@
 title: "Home"
 seo:
-  title: "Cyber Hackers Pvt Ltd | Plumbing and heating in Bengaluru"
-  description: "this is a team of ethical hackers who  protect you from possible  online hacking"
+  title: "Cyber Hackers Pvt Ltd | Ethical Hacking in Bengaluru"
+  description: "A team of ethical hackers in Bengaluru who protect you from possible online hacking. Contact us to talk about your security."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     variant: home
-    eyebrow: "Plumbing and heating in Bengaluru"
-    title: "Reliable plumbing and heating, done properly the first time"
-    lead: "this is a team of ethical hackers who  protect you from possible  online hacking"
+    eyebrow: "Cyber security in Bengaluru"
+    title: "Ethical hackers protecting you from online attacks"
+    lead: "We're a team of ethical hackers who help protect you from possible online hacking."
     buttons:
-      - label: "Get a free quote"
+      - label: "Contact us"
         href: /contact
       - label: "See our services"
         href: /services
     points:
-      - Clear, written quotes before any work starts
-      - We turn up when we say we will
-      - Tidy work, and we clean up after ourselves
-      - Every job guaranteed
+      - Clear, written summaries of what we find
+      - Plain-English advice you can act on
+      - Careful work that doesn't disrupt your systems
+      - Honest answers to your questions
 
   - blockType: features
     eyebrow: What we do
-    title: Plumbing and heating services
-    lead: "From a dripping tap to a new bathroom, one team looks after it all."
+    title: Ethical hacking and online protection
+    lead: "From checking your defences to responding when something goes wrong, one team looks after it all."
     items:
       - icon: Flame
-        title: Boiler repairs and servicing
-        text: Annual services, breakdowns and new boilers, with honest advice on whether to repair or replace.
+        title: Security checks
+        text: Testing your systems and accounts for weak points, with clear advice on what to fix first.
         href: /services/boiler-repairs
       - icon: Bath
-        title: Bathroom installation
-        text: Complete bathrooms from design to the last tile, managed by one team from start to finish.
+        title: Protection from online hacking
+        text: Practical steps to reduce the risk of attacks, explained in plain language for your team.
         href: /services/bathroom-installation
       - icon: Wrench
-        title: Emergency plumbing
-        text: Burst pipes, leaks and blockages. Call us and we'll tell you straight away when we can be there.
+        title: Incident response
+        text: If you suspect a hack, call us and we'll tell you straight away how we can help.
         href: /services/emergency-plumbing
 
   - blockType: split
     tone: white
     eyebrow: Why choose us
-    title: "A local firm that treats your home like our own"
+    title: "A local team that treats your security like our own"
     body: |
-      We're a small, local team, so the person who quotes for your job is the person who answers the phone when you have a question.
+      We're a small, local team, so the person who looks at your systems is the person who answers when you have a question.
 
-      We explain what needs doing and why, in plain English, and we never start extra work without asking you first.
+      We explain what we find and why, in plain English, and we never make changes without asking you first.
     highlight:
       title: What you can expect
       items:
-        - A fixed, written quote
-        - Dust sheets down and shoes off
-        - A clear explanation of the work
-        - Paperwork and guarantees sent by email
+        - A clear written summary of what we found
+        - A plain-English explanation of each risk
+        - No changes made without your agreement
+        - Reports and follow-up sent by email
 
   - blockType: steps
     eyebrow: How it works
-    title: From your first call to a finished job
+    title: From your first call to a more secure system
     steps:
       - title: Tell us what you need
-        text: Call, email or use the form. A photo of the problem often helps.
-      - title: Get a clear quote
-        text: We visit if we need to, then send a fixed price in writing.
+        text: Call, email or use the form. Tell us which systems or accounts you're worried about.
+      - title: Get a clear plan
+        text: We discuss what needs checking and send you the plan in writing.
       - title: We do the work
-        text: On the day we agree, tidily, keeping you posted as we go.
+        text: On the day we agree, we get on with it and keep you posted as we go.
       - title: Check and sign off
-        text: We test everything with you and leave the place clean.
+        text: We walk you through what we found and what to fix next.
 
   - blockType: testimonials
     tone: tint
@@ -74,36 +74,36 @@ blocks:
     items:
       - quote: "Replace this with a real review from a customer, in their own words. Reviews you publish must be genuine."
         name: Sample review
-        detail: "Boiler service, Bengaluru"
+        detail: "Security assessment, Bengaluru"
         rating: 5
       - quote: "A second real review goes here, ideally about a different service, with the customer's permission to use it."
         name: Sample review
-        detail: "Bathroom installation"
+        detail: "Website security review"
         rating: 5
       - quote: "A third real review. Short and specific works best: what was done, and how it went."
         name: Sample review
-        detail: "Emergency call-out"
+        detail: "Emergency response"
         rating: 5
 
   - blockType: areas
     eyebrow: Where we work
-    title: "Covering Bengaluru and the surrounding area"
+    title: "Serving Bengaluru"
     note: "Not sure if we cover you? [Ask us](/contact) and we'll let you know."
 
   - blockType: faq
     tone: white
     title: Common questions
     items:
-      - question: Do you charge for quotes?
-        answer: No. Quotes are free, and we put every price in writing before any work starts.
-      - question: How soon can you come out?
-        answer: For emergencies we aim to come the same day. For other work we'll agree a date that suits you.
-      - question: Do you guarantee your work?
-        answer: Yes. Every job is guaranteed, and we'll come back and put it right if anything isn't as it should be.
+      - question: Do you charge for an initial consultation?
+        answer: Please contact us for details. We'll put any price in writing before work starts.
+      - question: How soon can you respond to an urgent problem?
+        answer: For urgent incidents, contact us straight away and we'll tell you how quickly we can respond.
+      - question: What happens after the work is done?
+        answer: We'll walk you through our findings and any follow-up you need, and we're happy to answer questions afterwards.
 
   - blockType: cta
-    title: Need a plumber you can rely on?
-    text: Tell us what you need and we'll get back to you with a clear quote.
+    title: Need a team you can trust with your security?
+    text: Tell us what you're worried about and we'll get back to you.
     buttons:
-      - label: Get a free quote
+      - label: Contact us
         href: /contact

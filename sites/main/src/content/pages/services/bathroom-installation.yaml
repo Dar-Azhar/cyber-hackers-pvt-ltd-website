@@ -1,41 +1,41 @@
-title: "Bathroom installation"
+title: "Cybersecurity protection"
 seo:
-  title: "Bathroom installation in Bengaluru | Cyber Hackers Pvt Ltd"
-  description: "New bathrooms and shower rooms in Bengaluru, planned and fitted by one team, from Cyber Hackers Pvt Ltd: plumbing, tiling and finishing."
+  title: "Cybersecurity services in Bengaluru | Cyber Hackers Pvt Ltd"
+  description: "Ethical hackers in Bengaluru who test your systems and help protect your business from online attacks. Cyber Hackers Pvt Ltd."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
-    title: Bathroom installation
-    lead: "A new bathroom without the hassle of managing several trades: we plan it with you and fit it from start to finish."
+    title: Protect your business from online attacks
+    lead: "Our team of ethical hackers looks for weak spots before criminals do, and helps you close them. One team, from first check to final fix."
     buttons:
-      - label: Arrange a visit
+      - label: Book a consultation
         href: /contact
 
   - blockType: steps
-    title: How a bathroom project works
+    title: How a security project works
     steps:
-      - title: Visit and measure
-        text: We look at the room, talk through what you'd like and measure up.
+      - title: Talk and assess
+        text: We learn about your systems, your data and what worries you most.
       - title: Plan and quote
         text: A written quote with a clear list of what's included and how long it will take.
-      - title: Fit
-        text: Old suite out, pipework, electrics, tiling and the new suite in.
-      - title: Finish
-        text: Sealed, tested and cleaned, ready to use.
+      - title: Test
+        text: We look for weaknesses in your systems, networks and apps, with your permission.
+      - title: Fix and report
+        text: We explain what we found in plain language and help you put it right.
 
   - blockType: split
     tone: white
-    title: What we can fit
+    title: What we can help with
     body: |
-      Baths, showers, wet rooms, toilets, basins, vanity units, heated towel rails and tiling. You can choose the suite yourself, or we can suggest some.
+      Security testing, reviews of websites and apps, network checks, and advice on keeping your data safe. We can focus on the areas you're most concerned about, or suggest where to start.
     bullets:
       - One team from start to finish
       - A clear timetable before we start
-      - Your home kept clean and tidy each day
+      - Findings explained in plain language
 
   - blockType: cta
-    title: Planning a new bathroom?
-    text: Tell us about the room and what you have in mind, and we'll arrange a visit.
+    title: Worried about your online security?
+    text: Tell us about your systems and what concerns you, and we'll arrange a consultation.
     buttons:
       - label: Get a quote
         href: /contact

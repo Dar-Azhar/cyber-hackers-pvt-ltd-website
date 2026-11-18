@@ -1,38 +1,38 @@
-title: "Emergency plumbing"
+title: "Emergency cyber security"
 seo:
-  title: "Emergency plumber in Bengaluru | Cyber Hackers Pvt Ltd"
-  description: "Burst pipes, leaks, blocked drains and no hot water in Bengaluru: call Cyber Hackers Pvt Ltd and we'll tell you straight away when we can be there."
+  title: "Emergency cyber security Bengaluru | Cyber Hackers Pvt Ltd"
+  description: "Think you've been hacked in Bengaluru? Call Cyber Hackers Pvt Ltd, a team of ethical hackers, and tell us what's happening."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
-    title: Emergency plumbing
-    lead: "Water where it shouldn't be? Call us and we'll tell you straight away when we can get to you."
+    title: Emergency cyber security
+    lead: "Think someone has got into your accounts or devices? Get in touch and tell us what's happening."
     buttons:
       - label: Contact us now
         href: /contact
     points:
-      - Burst and leaking pipes
-      - Blocked drains and toilets
-      - No heating or hot water
-      - Leaking tanks and cylinders
+      - Hacked email and social media accounts
+      - Suspicious activity on your devices
+      - Malware and ransomware
+      - Stolen or leaked personal data
 
   - blockType: split
     title: While you wait for us
     body: |
-      If water is leaking, turn it off at the stopcock. It's usually under the kitchen sink, or where the water pipe comes into the house.
+      If you think someone is in your accounts, change your passwords from a device you trust, not the one that may be affected.
 
-      If water is near electrics, keep away from them and switch off the power at the fuse box if it's safe to reach.
+      If a device is behaving strangely, disconnect it from the internet until you've spoken to us. Don't delete anything yet, as it may help us understand what happened.
     highlight:
       title: Quick checklist
       items:
-        - Turn off the water at the stopcock
-        - Switch off electrics near the leak
-        - Move valuables out of the way
-        - Take a photo for us if you can
+        - Disconnect the affected device from the internet
+        - Change your passwords from a device you trust
+        - Turn on two-factor authentication where you can
+        - Take a screenshot of anything suspicious
 
   - blockType: cta
-    title: Need help now?
-    text: Get in touch and tell us what's happening. We'll call you back as soon as we can.
+    title: Think you've been hacked?
+    text: Get in touch and tell us what's happening. We'll get back to you as soon as we can.
     buttons:
       - label: Contact us
         href: /contact

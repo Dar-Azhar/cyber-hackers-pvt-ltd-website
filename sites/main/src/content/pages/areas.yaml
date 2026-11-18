@@ -1,20 +1,20 @@
-title: "Areas covered"
+title: "Areas we cover"
 seo:
-  title: "Areas we cover around Bengaluru | Cyber Hackers Pvt Ltd"
-  description: "Cyber Hackers Pvt Ltd works in Bengaluru and the surrounding towns and villages. See the areas we cover, or ask us about yours."
+  title: "Areas we cover in Bengaluru | Cyber Hackers Pvt Ltd"
+  description: "Cyber Hackers Pvt Ltd, a team of ethical hackers, protects you from online hacking in Bengaluru. See the areas we cover, or ask us about yours."
 updatedAt: 2026-10-19
 blocks:
   - blockType: hero
     title: Areas we cover
-    lead: "We're based in Bengaluru and work across the surrounding area, so we're never far away."
+    lead: "We're based in Bengaluru, and we serve customers across the city."
 
   - blockType: areas
-    title: Towns and villages we visit
-    lead: "If your area isn't listed, ask anyway: we often travel a little further for larger jobs."
+    title: Areas we serve in Bengaluru
+    lead: "Not sure your area is listed? Ask us anyway and we'll let you know."
 
   - blockType: cta
-    title: Is your home in our area?
-    text: Send us your postcode with a few words about the job and we'll let you know.
+    title: Is your home in Bengaluru?
+    text: Send us your PIN code with a few words about what you need, and we'll let you know how we can help.
     buttons:
       - label: Ask us
         href: /contact
