@@ -1,0 +1,40 @@
+title: "Blogs"
+seo:
+  title: "Blogs"
+  description: "Read Our Blogs"
+  keyphrase: "Our Blogs"
+  image: /media/01-ai-visibility-check-by-cyber-spark.png
+updatedAt: 2026-11-20
+blocks:
+  - blockType: hero
+    title: Blogs
+    lead: "Everything from a quick security check to full protection against online hacking, done by one local team."
+    buttons:
+      - label: Get a quote
+        href: /contact
+
+  - blockType: links
+    title: What we can help with
+    items:
+      - href: /services/boiler-repairs
+        icon: Flame
+      - href: /services/bathroom-installation
+        icon: Bath
+      - href: /services/emergency-plumbing
+        icon: Wrench
+
+  - blockType: split
+    tone: white
+    title: Something else?
+    body: |
+      We also look at the smaller gaps that are easy to put off, such as weak passwords and old settings. If it involves your devices, accounts or data, ask us.
+    button:
+      label: Ask about your problem
+      href: /contact
+
+  - blockType: cta
+    title: Not sure what you need?
+    text: Describe the problem and we'll tell you how we'd fix it, and what it would cost.
+    buttons:
+      - label: Contact us
+        href: /contact
