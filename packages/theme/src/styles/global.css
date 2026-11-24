@@ -233,6 +233,12 @@
   .prose-site blockquote {
     @apply border-l-4 border-primary pl-4 italic;
   }
+  /* An SVG in the words has no size of its own, so it filled the column: imported client logos
+     (#48). Kept to a logo's height; photos keep their own width. */
+  .prose-site img[src$=".svg"] {
+    max-height: 4rem;
+    width: auto;
+  }
   .tone-dark .prose-site,
   .tone-dark .prose-site strong {
     @apply text-white/90;
